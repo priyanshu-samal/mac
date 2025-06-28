@@ -1,4 +1,4 @@
-# [Live Demo on Vercel](<VERCEL_LINK_HERE>)
+
 
 ![Project Screenshot](public/mac.png)
 
