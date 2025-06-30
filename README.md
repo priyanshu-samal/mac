@@ -1,6 +1,6 @@
 
 
-![Project Screenshot](public/mac.png)
+📱 **Watch the Demo**: [View on X (Twitter)](https://x.com/PriyanshuS92042/status/1938955418895806731)
 
 ---
 
